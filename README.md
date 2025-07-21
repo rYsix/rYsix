@@ -11,6 +11,12 @@
 
 ---
 
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 <!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+build+robust+backend+systems.;Logging-first+thinking+%7C+CI%2FCD+%7C+SRE+principles.;Quality+%7C+Automation+%7C+Reliability"/>
@@ -34,8 +40,8 @@
 </p>
 
 ```txt
-Python, Django, DRF, Bash, CI/CD, GitHub Actions, PostgreSQL, Docker
-Nginx, Linux, Bootstrap, SQLite, REST API, Git, Markdown
+Python, Django, DRF, CI/CD, GitHub Actions, PostgreSQL, Docker
+Nginx, Linux, Bootstrap, REST API, Git, Markdown
 ```
 
 ---
