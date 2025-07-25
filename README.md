@@ -5,7 +5,8 @@
   Almaty, Kazakhstan  •  fan of clean code & clear failures  
   <br>
   <a href="https://t.me/rusihhh">Telegram</a> • 
-  <a href="mailto:mal.rus.ana@yandex.kz">Email</a>
+  <a href="mailto:mal.rus.ana@yandex.kz">Email</a> • 
+  <a href="rysix.github.io/rYsix/">Email</a>
 </p>
 
 ---
