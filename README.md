@@ -6,7 +6,7 @@
   <br>
   <a href="https://t.me/rusihhh">Telegram</a> • 
   <a href="mailto:mal.rus.ana@yandex.kz">Email</a> • 
-  <a href="rysix.github.io/rYsix/">Email</a>
+  <a href="rysix.github.io/rYsix/">Web Resume</a>
 </p>
 
 ---
