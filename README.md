@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Ruslan Malikov</h1>
-<h3 align="center">Backend Developer | Python & Django</h3>
+<h3 align="center">Backend Developer</h3>
 <p align="center">
   Almaty, Kazakhstan  •  fan of clean code & clear failures  
   <br>
