@@ -51,10 +51,6 @@ CI/CD · GitHub Actions · REST API · Bootstrap · TCP/IP
        alt="GitHub activity snake" />
 </div>
 
-<p align="center">
-  Most of my work is private & corporate — quality > commit count.
-</p>
-
 ---
 
 <!-- CONTACT -->
